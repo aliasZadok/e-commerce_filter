@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "product_name": "Moto E5 Plus",
+      "brand": "Motorola",
+      "price": 10490,
+      "rating": "4 stars"
+    },
+    {
+      "id": 1,
+      "product_name": "Moto G7",
+      "brand": "Motorola",
+      "price": 10440 ,
+      "rating": "4 stars"
+    },
+    {
+      "id": 2,
+      "product_name": "Moto X4",
+      "brand": "Motorola",
+      "price": 9981,
+      "rating": "4 stars"
+    },
+    {
+      "id": 3,
+      "product_name": "iPhone XR",
+      "brand": "Apple",
+      "price": 50500,
+      "rating": "5 stars"
+    },
+    {
+      "id": 4,
+      "product_name": "OnePlus 7T",
+      "brand": "OnePlus",
+      "price": 34999,
+      "rating": "4 stars"
+    },
+    {
+      "id": 5,
+      "product_name": "OnePlus 7 Pro",
+      "brand": "OnePlus",
+      "price": 42999,
+      "rating": "4 stars"
+    },
+    {
+      "id": 6,
+      "product_name": "OPPO A83",
+      "brand": "Oppo",
+      "price": 8740,
+      "rating": "3 stars"
+    },
+    {
+      "id": 7,
+      "product_name": "OPPO A9 2020",
+      "brand": "Oppo",
+      "price": 15990,
+      "rating": "2 stars"
+    },
+    {
+      "id": 8,
+      "product_name": "Vivo U20",
+      "brand": "Vivo",
+      "price": 11990,
+      "rating": "2 stars"
+    },
+    {
+      "id": 9,
+      "product_name": "LYF Wind 3",
+      "brand": "Lyf",
+      "price": 5500,
+      "rating": "1 star"
+    }
+  ]
+}
